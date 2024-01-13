@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub 👋
+# Bem-vindo ao meu Perfil 👋
 
 ## Sobre mim
 Olá! Sou Wesley, um desenvolvedor Android apaixonado por criar aplicativos incríveis. Tenho experiência sólida em Java e Kotlin, e estou sempre buscando aprender e aplicar novas tecnologias para aprimorar minhas habilidades.
